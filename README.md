@@ -1,0 +1,2 @@
+# mapspice-docs
+Mapspice - documentation
